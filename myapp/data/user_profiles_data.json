@@ -1,0 +1,902 @@
+[
+    {
+        "user_profile_id": 1,
+        "user_profile_description": "Luxury home enthusiast, interested in modern architecture and design trends.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 2,
+        "user_profile_description": "Real estate investor looking for high-end properties in the Pacific Northwest.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 3,
+        "user_profile_description": "Relocating to the area, searching for luxury neighborhoods and listings.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 4,
+        "user_profile_description": "Local realtor specializing in luxury real estate.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 5,
+        "user_profile_description": "First-time homebuyer interested in upscale townhouses.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 6,
+        "user_profile_description": "Luxury traveler, looking for properties with high rental potential.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+        "user_profile_id": 7,
+        "user_profile_description": "Tech entrepreneur interested in smart home features in luxury estates.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 8,
+        "user_profile_description": "Interior designer seeking inspiration from beautiful luxury homes.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+    },
+    {
+        "user_profile_id": 9,
+        "user_profile_description": "Family looking for a spacious luxury home with good schools nearby.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 10,
+        "user_profile_description": "Designer interested in modern luxury apartments in urban settings.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+    },
+    {
+        "user_profile_id": 11,
+        "user_profile_description": "Luxury home collector, looking for unique architectural features.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 12,
+        "user_profile_description": "Out-of-state buyer interested in relocating to the area for luxury real estate.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 13,
+        "user_profile_description": "Real estate blogger covering luxury homes in the Seattle area.",
+        "region": "Seattle",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 14,
+        "user_profile_description": "Luxury property developer looking for partnership opportunities.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 15,
+        "user_profile_description": "Investor interested in luxury condominiums as rental properties.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+    },
+    {
+        "user_profile_id": 16,
+        "user_profile_description": "Luxury home enthusiast, looking for waterfront properties.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+    },
+    {
+        "user_profile_id": 17,
+        "user_profile_description": "Searching for high-end sustainable homes in Bellevue.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (iPad; CPU OS 14_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+        "user_profile_id": 18,
+        "user_profile_description": "Design enthusiast exploring luxury interiors and decorations.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+    },
+    {
+        "user_profile_id": 19,
+        "user_profile_description": "Seeking luxury multifamily homes for investment purposes.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    },
+    {
+        "user_profile_id": 20,
+        "user_profile_description": "Luxury real estate agent with a focus on high-net-worth clients.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 21,
+        "user_profile_description": "Looking for exclusive luxury properties near the water.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 22,
+        "user_profile_description": "Interested in luxury townhomes and community amenities.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 23,
+        "user_profile_description": "Luxury property collector, focused on unique listings and auctions.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 24,
+        "user_profile_description": "Homeowner looking for upgrades and renovations on luxury estates.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 25,
+        "user_profile_description": "Luxury rental property seeker looking for urban lofts.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 26,
+        "user_profile_description": "Property manager focusing on luxury residential buildings.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 27,
+        "user_profile_description": "Lifestyle blogger covering luxury housing trends and tips.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    },
+    {
+        "user_profile_id": 28,
+        "user_profile_description": "Tech executive interested in luxury homes with integrated smart features.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+    },
+    {
+        "user_profile_id": 29,
+        "user_profile_description": "Future homeowner exploring luxury neighborhoods and schools.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 30,
+        "user_profile_description": "Searching for upscale homes with large outdoor spaces.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 31,
+        "user_profile_description": "Looking for luxury investment opportunities in the tech hub.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 32,
+        "user_profile_description": "Luxury home connoisseur interested in historic properties.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 33,
+        "user_profile_description": "Explorer of luxury living styles and home designs.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 34,
+        "user_profile_description": "Luxury vacation home seeker looking for ideal getaways.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 35,
+        "user_profile_description": "Real estate analyst studying trends in the luxury market.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 36,
+        "user_profile_description": "Seeking a luxury home with a home office for remote work.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 37,
+        "user_profile_description": "Developer looking for bulk purchasing of luxury properties.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 38,
+        "user_profile_description": "House flipper focusing on luxury renovations.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 39,
+        "user_profile_description": "Local luxury property hunter for investment opportunities.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 40,
+        "user_profile_description": "Looking for new luxury listings in the Redmond area.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 41,
+        "user_profile_description": "Interested in waterfront homes with luxury amenities.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 42,
+        "user_profile_description": "Tech professional wanting to explore luxury living options.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 43,
+        "user_profile_description": "Potential buyer interested in unique architectural designs.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+    },
+    {
+        "user_profile_id": 44,
+        "user_profile_description": "Luxury real estate agent looking to connect with new clients.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 45,
+        "user_profile_description": "Searching for technology-integrated luxury homes.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 46,
+        "user_profile_description": "Wealthy retiree interested in downsizing to luxury condos.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 47,
+        "user_profile_description": "Exploring luxury neighborhoods with family-oriented amenities.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 48,
+        "user_profile_description": "Interested in investing in luxury vacation rentals.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 49,
+        "user_profile_description": "Urban professional seeking luxury lofts for rent.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 50,
+        "user_profile_description": "Interior decorator exploring luxury homes for inspiration.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+    },
+    {
+        "user_profile_id": 51,
+        "user_profile_description": "Curious about emerging luxury markets in the area.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 52,
+        "user_profile_description": "Luxury home seeker with a focus on eco-friendly properties.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 53,
+        "user_profile_description": "Retired couple looking for luxury apartments with amenities.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 54,
+        "user_profile_description": "Searching for luxury properties with historical significance.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 55,
+        "user_profile_description": "Business traveler interested in luxury short-term rentals.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 56,
+        "user_profile_description": "House hacker exploring shared luxury living options.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 57,
+        "user_profile_description": "Luxury real estate analyst focusing on market trends.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 58,
+        "user_profile_description": "High-net-worth individual looking for luxury homes with privacy.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 59,
+        "user_profile_description": "Luxury property flipper interested in exclusive listings.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 60,
+        "user_profile_description": "Looking for modern luxury homes with open floor plans.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 61,
+        "user_profile_description": "Investor seeking high-end residential properties in Bellevue.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 62,
+        "user_profile_description": "Potential buyer exploring luxury homes with energy efficiency.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 63,
+        "user_profile_description": "Fashion designer looking for luxurious creative spaces.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 64,
+        "user_profile_description": "Homebuyer interested in luxury homes with large garages.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 65,
+        "user_profile_description": "Executive seeking luxury properties for corporate retreats.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 66,
+        "user_profile_description": "Empty nester looking to downsize into a luxury community.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 67,
+        "user_profile_description": "Luxury vacation rental manager exploring market trends.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 68,
+        "user_profile_description": "Art collector looking for luxury homes with galleries.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 69,
+        "user_profile_description": "Family searching for luxury homes with large yards.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+    },
+    {
+        "user_profile_id": 70,
+        "user_profile_description": "Newlyweds looking for luxury homes in quiet neighborhoods.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 71,
+        "user_profile_description": "Entrepreneur interested in luxury properties for business retreats.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 72,
+        "user_profile_description": "Individual exploring co-living luxury spaces.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 73,
+        "user_profile_description": "Artistic professional interested in designer luxury lofts.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 74,
+        "user_profile_description": "Entrepreneur seeking luxury homes with modern amenities.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15"
+    },
+    {
+        "user_profile_id": 75,
+        "user_profile_description": "Home buyer focused on properties with luxury landscaping.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 76,
+        "user_profile_description": "Luxury property enthusiast looking for new developments.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 77,
+        "user_profile_description": "Luxury home enthusiast eager to learn about new listings.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 78,
+        "user_profile_description": "Marketing professional researching luxury real estate markets.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 79,
+        "user_profile_description": "Luxury buyer interested in homes with unique designs.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 80,
+        "user_profile_description": "Local chef seeking luxury homes with gourmet kitchens.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 81,
+        "user_profile_description": "Luxury condo buyer exploring offerings in desirable neighborhoods.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36"
+    },
+    {
+        "user_profile_id": 82,
+        "user_profile_description": "Searching for luxury homes with scenic views.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 83,
+        "user_profile_description": "Luxury pet owner looking for homes with large yards.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 84,
+        "user_profile_description": "Looking for luxury listings near urban centers.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 85,
+        "user_profile_description": "Exploring family-friendly luxury homes with parks nearby.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 86,
+        "user_profile_description": "Local business owner searching for commercial luxury properties.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 87,
+        "user_profile_description": "Travel enthusiast seeking luxury homes in exotic locations.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 88,
+        "user_profile_description": "Searching for luxury homes with home theaters.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 89,
+        "user_profile_description": "Looking for luxury homes with wine cellars.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 90,
+        "user_profile_description": "Newly married couple interested in luxury homes with guest rooms.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 91,
+        "user_profile_description": "High-income professional seeking luxury properties for future planning.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 92,
+        "user_profile_description": "Real estate investor looking for off-market luxury listings.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 93,
+        "user_profile_description": "Exploring luxury properties as a lifestyle choice.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 94,
+        "user_profile_description": "Looking for luxury estates with beautiful gardens.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 95,
+        "user_profile_description": "Homebuyer looking for luxury homes with spacious kitchens.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 96,
+        "user_profile_description": "Searching for luxury properties with high ceilings.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 97,
+        "user_profile_description": "Luxury buyer interested in properties near parks and recreation.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 98,
+        "user_profile_description": "Young professional seeking luxury apartments.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 99,
+        "user_profile_description": "Family exploring homes with luxury family rooms.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 100,
+        "user_profile_description": "Luxury real estate blogger covering Seattle neighborhoods.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 101,
+        "user_profile_description": "Couple looking for luxury homes with pools.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 102,
+        "user_profile_description": "Luxury home seeker interested in gated communities.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 103,
+        "user_profile_description": "Affluent traveler looking for luxury properties in exotic locations.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 104,
+        "user_profile_description": "Luxury real estate enthusiast focusing on Seattle suburbs.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 105,
+        "user_profile_description": "Potential homeowner looking for luxury condos in urban areas.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 106,
+        "user_profile_description": "Searching for family-friendly luxury homes with outdoor activities.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 107,
+        "user_profile_description": "Local luxury home appraiser reviewing properties.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 108,
+        "user_profile_description": "Finance professional looking for luxury real estate investment options.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 109,
+        "user_profile_description": "Investor scouting luxury homes with good resale value.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 110,
+        "user_profile_description": "New homebuyer exploring upscale amenities.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 111,
+        "user_profile_description": "Couple interested in luxury homes with spacious backyards.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 112,
+        "user_profile_description": "Exploring luxury properties with elegant interiors.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 113,
+        "user_profile_description": "Luxury home enthusiast looking for modern designs.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 114,
+        "user_profile_description": "Investing in luxury real estate for long-term wealth.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 115,
+        "user_profile_description": "Looking for luxury homes with outdoor entertainment spaces.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 116,
+        "user_profile_description": "Newly engaged couple seeking luxury homes for future.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 117,
+        "user_profile_description": "Luxury real estate writer specializing in high-end homes.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 118,
+        "user_profile_description": "Tech-savvy individual looking for luxury homes with smart features.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 119,
+        "user_profile_description": "Luxury home seeker searching for peaceful retreats.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 120,
+        "user_profile_description": "Exploring high-end luxury properties with unique features.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 121,
+        "user_profile_description": "Luxury home enthusiast aiming for upscale markets.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 122,
+        "user_profile_description": "Business executive exploring luxury estates for relocation.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 123,
+        "user_profile_description": "Retiring professional interested in luxury homes with gardens.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 124,
+        "user_profile_description": "Family seeking luxury homes with community amenities.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 125,
+        "user_profile_description": "Searching for coastal luxury homes.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 126,
+        "user_profile_description": "Interested in luxury developments with waterfront access.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 127,
+        "user_profile_description": "Potential buyer exploring high-end gated communities.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 128,
+        "user_profile_description": "Luxury buyer seeking homes with modern landscaping.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+    },
+    {
+        "user_profile_id": 129,
+        "user_profile_description": "Interested in luxury lofts and modern apartments.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 130,
+        "user_profile_description": "Luxury vacation seeker interested in exclusive properties.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 131,
+        "user_profile_description": "Seeking modern luxury homes with spacious layouts.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 132,
+        "user_profile_description": "Young professionals searching for upscale living environments.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 133,
+        "user_profile_description": "Luxury estate seeker interested in modern aesthetics.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 134,
+        "user_profile_description": "Looking for luxury homes with extensive gardens and outdoor space.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 135,
+        "user_profile_description": "Investor aiming for luxury properties in high-demand areas.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 136,
+        "user_profile_description": "Luxury home enthusiast interested in modern beach properties.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 137,
+        "user_profile_description": "Searching for luxury homes in peaceful, quiet neighborhoods.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 138,
+        "user_profile_description": "Couple seeking luxury apartments with modern amenities.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 139,
+        "user_profile_description": "Looking for luxury homes with scenic views of the mountains.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 140,
+        "user_profile_description": "Real estate professional interested in luxury market trends.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 141,
+        "user_profile_description": "Professional looking for luxury homes with home gyms.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 142,
+        "user_profile_description": "Young family exploring luxury homes with play areas.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 143,
+        "user_profile_description": "Luxury investor interested in properties with high ROI potential.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+    },
+    {
+        "user_profile_id": 144,
+        "user_profile_description": "Searching for luxury homes with home offices for remote work.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    },
+    {
+        "user_profile_id": 145,
+        "user_profile_description": "High-income family interested in large luxury homes.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 146,
+        "user_profile_description": "Luxury real estate enthusiast searching for historical properties.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 147,
+        "user_profile_description": "Professional couple looking for urban luxury apartments.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/91.0"
+    },
+    {
+        "user_profile_id": 148,
+        "user_profile_description": "Searching for luxury homes with expansive gardens.",
+        "region": "Redmond",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
+    },
+    {
+        "user_profile_id": 149,
+        "user_profile_description": "Luxury home buyer interested in unique properties with history.",
+        "region": "Bellevue",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
+    },
+    {
+        "user_profile_id": 150,
+        "user_profile_description": "Seeking luxury homes with modern amenities and finishes.",
+        "region": "Kirkland",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/92.0"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "user_behavior_id": 1,
+        "user_behavior_description": "User opens the website and hovers their mouse over the 'Home' link in the navigation bar for 3 seconds, then clicks on the 'About Us' link.",
+        "user_behavior_explanation": "The user is exploring the navigation menu, indicating interest in learning more about the company. The HTML element involved is the anchor tag <a href='#about'> in the navigation. The CSS selector for the clicked link is 'nav ul li:nth-child(2) a'."
+    },
+    {
+        "user_behavior_id": 2,
+        "user_behavior_description": "User opens the website, scrolls down to the 'Listings' section immediately, pauses at the first listing image, and clicks on it.",
+        "user_behavior_explanation": "This behavior shows immediate interest in the property listings. The HTML element clicked is the <img> tag inside the '.listing-item' class. The CSS selector for the clicked image is '.listing-grid .listing-item:nth-child(1) img'."
+    },
+    {
+        "user_behavior_id": 3,
+        "user_behavior_description": "User lands on the homepage and scrolls down quickly to the footer, spends 4 seconds reading the copyright information, then closes the tab.",
+        "user_behavior_explanation": "The user is possibly in a hurry, looking for basic information. The relevant HTML element here is the <footer> tag. No click action is performed, but the user interaction with the footer shows engagement. The CSS selector is 'footer'."
+    },
+    {
+        "user_behavior_id": 4,
+        "user_behavior_description": "User opens the website, spends 5 seconds on the hero section, scrolls down to 'About Us', hovers over the about image for 2 seconds, and then clicks on the second listing image.",
+        "user_behavior_explanation": "The user shows a mix of curiosity about the company and immediate interest in the listings. The first image hovered is <img> in the 'about' section. The CSS selector is '.about img'. The clicked image's CSS selector is '.listing-grid .listing-item:nth-child(2) img'."
+    },
+    {
+        "user_behavior_id": 5,
+        "user_behavior_description": "User opens the site and immediately scrolls down to the 'Contact Us' section, fills out the form, and submits it.",
+        "user_behavior_explanation": "The user is looking to reach out, indicating high interest in the services. The relevant HTML element is the <form> tag in the 'Contact Us' section. The CSS selector for the form is '.contact form'."
+    },
+    {
+        "user_behavior_id": 6,
+        "user_behavior_description": "User opens the website and clicks on the 'Listings' link in the navigation bar, then scrolls quickly through the listings without clicking any images.",
+        "user_behavior_explanation": "This behavior indicates browsing through options without a specific target. The HTML element is <a href='#listings'> in the navigation bar. The CSS selector is 'nav ul li:nth-child(3) a'."
+    },
+    {
+        "user_behavior_id": 7,
+        "user_behavior_description": "User opens the website, watches the hero image for 5 seconds, then scrolls to the 'About Us' section, and reads for 4 seconds before leaving.",
+        "user_behavior_explanation": "The user is absorbing introductory content without interaction. Relevant HTML element is the <section class='hero'>. CSS selector is '.hero'."
+    },
+    {
+        "user_behavior_id": 8,
+        "user_behavior_description": "User opens the website and quickly scrolls through the 'Listings' section, pausing briefly on each image but clicking on the third image.",
+        "user_behavior_explanation": "The user is reviewing listings actively, indicating keen interest. The clicked image's HTML tag is <img> within '.listing-item'. CSS selector for the clicked image is '.listing-grid .listing-item:nth-child(3) img'."
+    },
+    {
+        "user_behavior_id": 9,
+        "user_behavior_description": "User opens the website, utilizes the scroll wheel to navigate down the page and stays for 10 seconds on the 'Contact Us' section before exiting.",
+        "user_behavior_explanation": "Indicates potential interest in contacting the service. Relevant HTML element is the <section class='contact'>. CSS selector is '.contact'."
+    },
+    {
+        "user_behavior_id": 10,
+        "user_behavior_description": "User opens the site, hovers over each navigation link for 2 seconds, ultimately clicking on 'Home'.",
+        "user_behavior_explanation": "The user is exploring their options in navigation before making a choice. The clicked link's HTML element is <a href='#home'> in the navigation. The CSS selector is 'nav ul li:nth-child(1) a'."
+    },
+    {
+        "user_behavior_id": 11,
+        "user_behavior_description": "User opens the website, scrolls slowly through the hero section, and clicks the 'About Us' section link after 5 seconds.",
+        "user_behavior_explanation": "The user is demonstrating interest in understanding the brand's story. The HTML element clicked is <a href='#about'> in the navigation. The CSS selector is 'nav ul li:nth-child(2) a'."
+    },
+    {
+        "user_behavior_id": 12,
+        "user_behavior_description": "User opens the site and clicks on the 'About Us' image then scrolls down to the listings, pausing to read each description for a couple of seconds.",
+        "user_behavior_explanation": "There is curiosity about the company and listings. The clicked image's HTML tag is <img> within '.about'. CSS selector is '.about img'."
+    },
+    {
+        "user_behavior_id": 13,
+        "user_behavior_description": "User visits the site and immediately scrolls to the footer, spending 3 seconds there before leaving.",
+        "user_behavior_explanation": "This suggests they were looking for contact information or copyright details. Relevant HTML element is the <footer>. CSS selector is 'footer'."
+    },
+    {
+        "user_behavior_id": 14,
+        "user_behavior_description": "User opens the website and takes a screenshot of the hero section before scrolling to the listings and clicks on the last image.",
+        "user_behavior_explanation": "The user is likely interested in the luxury property showcased or found the hero section visually attractive. The clicked image's HTML tag is <img> in the last '.listing-item'. CSS selector is '.listing-grid .listing-item:last-child img'."
+    },
+    {
+        "user_behavior_id": 15,
+        "user_behavior_description": "User opens the website, looks at the hero image for a moment, and clicks on 'Contact Us', filling out the contact form.",
+        "user_behavior_explanation": "The user is motivated to reach out, demonstrating engagement with the website. The HTML element is <form> in the contact section. CSS selector is '.contact form'."
+    },
+    {
+        "user_behavior_id": 16,
+        "user_behavior_description": "User lands on the homepage, scrolls down rapidly through the sections, and exits without any interaction.",
+        "user_behavior_explanation": "This could signal that the user wasn't interested in the content presented. The relevant HTML element could be the <body>. CSS selector is 'body'."
+    },
+    {
+        "user_behavior_id": 17,
+        "user_behavior_description": "User opens the site, pauses for 6 seconds at the hero section, then scrolls directly to the listings and clicks the second image.",
+        "user_behavior_explanation": "This behavior shows that the user is initially intrigued by the hero section but is more focused on listings. The clicked image's HTML structure is <img> within '.listing-item'. CSS selector is '.listing-grid .listing-item:nth-child(2) img'."
+    },
+    {
+        "user_behavior_id": 18,
+        "user_behavior_description": "User accesses the website, navigates to 'About Us', and spends 7 seconds reading before clicking the 'Listings' link.",
+        "user_behavior_explanation": "The user expresses interest in the company and then moves toward potential listings. The clicked link's HTML element is <a href='#listings'> in navigation. CSS selector is 'nav ul li:nth-child(3) a'."
+    },
+    {
+        "user_behavior_id": 19,
+        "user_behavior_description": "User opens the website, slowly scrolls through the entire page, then clicks on the first listing image.",
+        "user_behavior_explanation": "The user appears to show interest in properties after evaluating the overall content. The clicked image's HTML tag is <img> within '.listing-item'. CSS selector is '.listing-grid .listing-item:nth-child(1) img'."
+    },
+    {
+        "user_behavior_id": 20,
+        "user_behavior_description": "User navigates to the 'Contact Us' section, spends 5 seconds there, and then closes the tab, showing no form of interaction.",
+        "user_behavior_explanation": "This behavior shows that they were possibly looking for contact information but did not pursue further actions. The relevant HTML element is <section class='contact'>. CSS selector is '.contact'."
+    },
+    {
+        "user_behavior_id": 21,
+        "user_behavior_description": "User opens the site, scrolls down quickly but hovers over each listing image before finally clicking on the last one.",
+        "user_behavior_explanation": "This shows cautious interest in the properties. The clicked image's HTML tag is <img> in the last '.listing-item'. CSS selector is '.listing-grid .listing-item:last-child img'."
+    },
+    {
+        "user_behavior_id": 22,
+        "user_behavior_description": "User opens the website, pauses at the hero section, then goes to 'About Us' and reads for 8 seconds before scrolling to the 'Listings' section.",
+        "user_behavior_explanation": "The user is evaluating the brand before looking at offerings. The relevant HTML element is <section class='about'>. CSS selector is '.about'."
+    },
+    {
+        "user_behavior_id": 23,
+        "user_behavior_description": "User opens the website, quickly scrolls to the 'Contact Us' section and moves the mouse over the submit button without clicking.",
+        "user_behavior_explanation": "This indicates hesitation or contemplation about reaching out. The relevant HTML element is <button> in the contact form. CSS selector is '.contact button'."
+    },
+    {
+        "user_behavior_id": 24,
+        "user_behavior_description": "User opens the site and hovers over the 'Listings' link, then clicks on 'Contact Us' instead.",
+        "user_behavior_explanation": "The user seems to reconsider their navigation choice, showing interest in reaching out. The clicked link\u2019s HTML element is <a href='#contact'>. CSS selector is 'nav ul li:nth-child(4) a'."
+    },
+    {
+        "user_behavior_id": 25,
+        "user_behavior_description": "User opens the website, scrolls to the listings, and clicks on the first and the last images sequentially, indicating interest in various listings.",
+        "user_behavior_explanation": "This demonstrates comparative interest in multiple properties. The clicked images are <img> tags within the '.listing-item' class. CSS selectors are '.listing-grid .listing-item:nth-child(1) img' and '.listing-grid .listing-item:last-child img'."
+    },
+    {
+        "user_behavior_id": 26,
+        "user_behavior_description": "User lands on the homepage but quickly scrolls down without clicking on any part of the page and exits after reaching the footer.",
+        "user_behavior_explanation": "This indicates a quick pass-through with no engagement. The HTML element is <footer>. CSS selector is 'footer'."
+    },
+    {
+        "user_behavior_id": 27,
+        "user_behavior_description": "User opens the website, pauses to read the hero description, and then scrolls to 'About Us' and clicks on the about image.",
+        "user_behavior_explanation": "The user shows interest in the company\u2019s background after considering the main offering. The clicked image is within <section class='about'>. CSS selector is '.about img'."
+    },
+    {
+        "user_behavior_id": 28,
+        "user_behavior_description": "User opens the site, scrolling through the hero section and pausing at the listings for a few seconds without clicking.",
+        "user_behavior_explanation": "The user is browsing through the options without commitment to any particular listing yet. The relevant HTML element is <section class='listings'>. CSS selector is '.listings'."
+    },
+    {
+        "user_behavior_id": 29,
+        "user_behavior_description": "User lands on the homepage, hovers over the 'Contact Us' link, then quickly scrolls down to the listings and clicks on the first image.",
+        "user_behavior_explanation": "The user reflects on contacting but then decides to explore listings first. The clicked image is an <img> within '.listing-item'. CSS selector is '.listing-grid .listing-item:nth-child(1) img'."
+    },
+    {
+        "user_behavior_id": 30,
+        "user_behavior_description": "User opens the site and clicks on the 'About' link, then reads for 10 seconds before moving to 'Listings' and scrolling without clicking.",
+        "user_behavior_explanation": "The user values background information before checking properties, indicating a methodical approach. The clicked link is <a href='#about'>. CSS selector is 'nav ul li:nth-child(2) a'."
+    },
+    {
+        "user_behavior_id": 31,
+        "user_behavior_description": "User opens the site, takes a slow scroll through the 'Listings' section, and clicks on the listing image for the fourth property.",
+        "user_behavior_explanation": "The user appears to be interested in a specific property that catches their eye. The clicked image is an <img> in the fourth listing. CSS selector is '.listing-grid .listing-item:nth-child(4) img'."
+    },
+    {
+        "user_behavior_id": 32,
+        "user_behavior_description": "User opens the website, quickly skims through the 'About Us' section, then clicks on the 'Listings' and browses.",
+        "user_behavior_explanation": "Shows interest in real estate right after checking the company's credibility. The clicked link is <a href='#listings'>. CSS selector is 'nav ul li:nth-child(3) a'."
+    },
+    {
+        "user_behavior_id": 33,
+        "user_behavior_description": "User opens the site, scrolls to the footer quickly, and mouses over the copyright statement for a moment.",
+        "user_behavior_explanation": "This behavior indicates they were looking for legal or business information. The relevant HTML element is <footer>. CSS selector is 'footer'."
+    },
+    {
+        "user_behavior_id": 34,
+        "user_behavior_description": "User visits the page, clicks on the 'Contact Us' section but does not fill out the form, instead they scroll back up to the hero.",
+        "user_behavior_explanation": "The user considered contacting but changed their mind, suggesting uncertainty. Relevant HTML element is <form> in '.contact'. CSS selector is '.contact form'."
+    },
+    {
+        "user_behavior_id": 35,
+        "user_behavior_description": "User opens the site and clicks on the third listing image, then scrolls back to the hero and hovers for a few seconds.",
+        "user_behavior_explanation": "This indicates they are comparing the visual appeal of listings with the top content. The clicked image is <img> from the third listing. CSS selector is '.listing-grid .listing-item:nth-child(3) img'."
+    },
+    {
+        "user_behavior_id": 36,
+        "user_behavior_description": "User accesses the website, scrolls down to 'About Us', then clicks on the 'Contact Us' link and hovers over the submit button.",
+        "user_behavior_explanation": "The user is curious about the company's offerings and is also considering reaching out. Relevant HTML element for the clicked link is <a href='#contact'>. CSS selector is 'nav ul li:nth-child(4) a'."
+    },
+    {
+        "user_behavior_id": 37,
+        "user_behavior_description": "User lands on the homepage, scrolls without stopping, and clicks on the first image in 'Listings'.",
+        "user_behavior_explanation": "User is quickly scanning content before engaging with listings. The clicked image is an <img> in the first listing. CSS selector is '.listing-grid .listing-item:nth-child(1) img'."
+    },
+    {
+        "user_behavior_id": 38,
+        "user_behavior_description": "User opens the website, stays on the hero section for a short while before scrolling down to the footer and exiting.",
+        "user_behavior_explanation": "This behavior could indicate a lack of interest in the content. Relevant HTML element is the <footer>. CSS selector is 'footer'."
+    },
+    {
+        "user_behavior_id": 39,
+        "user_behavior_description": "User opens the site, scrolls immediately to the 'Contact Us' section, fills out the form, and submits it.",
+        "user_behavior_explanation": "The user is eager to establish contact, showing proactive interest. The relevant HTML element is <form> in '.contact'. CSS selector is '.contact form'."
+    },
+    {
+        "user_behavior_id": 40,
+        "user_behavior_description": "User visits the website, takes a screenshot of the 'Listings' section, and quickly exits.",
+        "user_behavior_explanation": "The user is likely interested in saving property information without engaging further. The relevant HTML section is <section class='listings'>. CSS selector is '.listings'."
+    },
+    {
+        "user_behavior_id": 41,
+        "user_behavior_description": "User opens the site, scrolls through the hero section, clicks on the image in the second listing, and then scrolls back to the hero.",
+        "user_behavior_explanation": "The user is evaluating property options before making a decision. The clicked image is <img> in the second listing. CSS selector is '.listing-grid .listing-item:nth-child(2) img'."
+    },
+    {
+        "user_behavior_id": 42,
+        "user_behavior_description": "User opens the site, hovers over the 'About Us' section, clicks on the 'Contact Us' link, and interacts with the form fields without submission.",
+        "user_behavior_explanation": "The user appears interested in both company information and reaching out but may have hesitated. The relevant HTML elements are <a href='#contact'> and <form> in '.contact'. The CSS selectors are 'nav ul li:nth-child(4) a' and '.contact form'."
+    },
+    {
+        "user_behavior_id": 43,
+        "user_behavior_description": "User accesses the website, scrolls straight to the listings, spends time moving over each image before clicking the last one.",
+        "user_behavior_explanation": "This behavior indicates thorough evaluation before deciding. The clicked image is <img> in the last listing. CSS selector is '.listing-grid .listing-item:last-child img'."
+    },
+    {
+        "user_behavior_id": 44,
+        "user_behavior_description": "User opens the site, clicks on the 'Home' link, and then scrolls to the footer without any interaction.",
+        "user_behavior_explanation": "The user seems to check the home introductory content but shows little interest in further exploration. Relevant HTML element is <footer>. CSS selector is 'footer'."
+    },
+    {
+        "user_behavior_id": 45,
+        "user_behavior_description": "User opens the site and navigates through the sections rapidly, finally clicking on the 'About Us' image.",
+        "user_behavior_explanation": "Rapid navigation suggests a search for credibility before considering content. The clicked image is <img> in the about section. CSS selector is '.about img'."
+    },
+    {
+        "user_behavior_id": 46,
+        "user_behavior_description": "User opens the website, reads the hero description, clicks on the first listing image, and then scrolls to 'Contact Us' without filling the form.",
+        "user_behavior_explanation": "The user showed initial interest in listings but hesitated when considering to contact. The clicked image is <img> in the first listing. CSS selector is '.listing-grid .listing-item:nth-child(1) img'."
+    },
+    {
+        "user_behavior_id": 47,
+        "user_behavior_description": "User opens the site, scrolls through each section, and takes a moment to hover over the submit button in 'Contact Us'.",
+        "user_behavior_explanation": "User is contemplating reaching out but not fully committed. Relevant HTML element is <button> in the contact form. CSS selector is '.contact button'."
+    },
+    {
+        "user_behavior_id": 48,
+        "user_behavior_description": "User accesses the website, immediately clicks on 'Listings', browses several images, eventually settling on the third listing image for a click.",
+        "user_behavior_explanation": "The user is decisively interested in property options. The clicked image is <img> in the third listing. CSS selector is '.listing-grid .listing-item:nth-child(3) img'."
+    },
+    {
+        "user_behavior_id": 49,
+        "user_behavior_description": "User opens the site and scrolls rapidly, stopping briefly to hover over the descriptions in the listings but not clicking.",
+        "user_behavior_explanation": "This indicates casual browsing without commitment. Relevant HTML element is <p> within '.listing-item'. CSS selector is '.listing-item p'."
+    },
+    {
+        "user_behavior_id": 50,
+        "user_behavior_description": "User opens the site, quickly scrolls through the sections, and closes the site after hovering over the footer.",
+        "user_behavior_explanation": "This suggests a lack of interest or quick assessment of the page. The relevant HTML element is <footer>. CSS selector is 'footer'."
+    }
+]
